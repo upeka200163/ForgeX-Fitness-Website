@@ -31,7 +31,7 @@ ForgeX is a modern, high-end fitness center promotional website built for perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shashinirathnayake2111-afk/ForgeX-Fitness-Website.git
+   git clone https://github.com/upeka200163/ForgeX--Fitness-Website.git
    ```
 
 2. Navigate to the project directory:
